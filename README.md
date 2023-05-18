@@ -1,2 +1,4 @@
 # Fuel-Consumption-Project
-This project predicts carbon monoxide emissions from moto vehicles using both supervised and unsupervised learning.
+Supervised and Unsupervised Learning
+This project predicts Carbon monoxide Emission and Classifies motor vehicles based on the Categorical variables Using Fuel 
+Consumption Rating Dataset.
